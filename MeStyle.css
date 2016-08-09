@@ -1,0 +1,59 @@
+body {
+    background-color: #161616;
+    color: #D7CEC7;
+}
+
+h1{
+    margin-top:0px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #AEB7A7;
+}
+
+h3{
+    margin:0px;
+    color: #CED7A7;
+}
+
+#main {
+    padding: 20px;
+    font-size: 150%;
+    line-height: 1.4;
+}
+
+a {
+    color: #32763F;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #9FC080;
+    text-decoration: none;
+}
+
+img{
+    padding: 15px;
+}
+
+.headshot{
+    float:right;
+    height: 120px;
+    padding-top:0px;
+}
+
+input {
+  width:85%;
+  color: white;
+  background:gray;
+  padding: 4px;
+  border:1px solid white;
+}
+
+.redacted{
+    background-color: #D7CEC7;
+    color: #D7CEC7;
+}
+
+.half{
+    width: 48%;
+    float: left;
+}
