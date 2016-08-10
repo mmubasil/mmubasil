@@ -245,7 +245,7 @@ function interact() {
   var t2 = new Date();
   t2.setSeconds(t2.getSeconds() + 2);
   r.innerHTML = " USER &nbsp;[" + t + "]: " + q.value + "<br>" + r.innerHTML ;
-  r.innerHTML = " ELIZA [" + t2 + "]: <code>" + response + "</code><br>" + r.innerHTML ;
+  r.innerHTML = " Mubasil [" + t2 + "]: <code>" + response + "</code><br>" + r.innerHTML ;
   q.value = "";
 }
 
